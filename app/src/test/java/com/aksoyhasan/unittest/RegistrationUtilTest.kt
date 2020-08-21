@@ -1,8 +1,8 @@
 package com.aksoyhasan.unittest
 
-
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
+
 
 class RegistrationUtilTest {
 
